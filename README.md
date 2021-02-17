@@ -11,6 +11,7 @@ Gosto muito de aprender coisas novas e aplicá-las em meus projetos.
 Fique a vontade em me conhecer mais nas minhas redes sociais.
 
 </p>
-https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+
+[![Linkedin Badge](https://img.shields.io/badge/-marceloalves95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceloalves95/)
 
 
