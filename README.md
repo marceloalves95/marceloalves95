@@ -32,5 +32,5 @@ Fique a vontade em me conhecer mais nas minhas redes sociais.
 
 **Linguagens e Ferramentas:**  
 
-![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
 
