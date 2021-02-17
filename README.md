@@ -2,8 +2,6 @@
 
 #### Me chamo Marcelo Alves
 
-------
-
 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
 O meu primeiro contato com programação foi em 2012, quando fiz o curso de Técnico em Informática pela escola Etec Sapopemba. Desde aquela época venho estudando sobre linguagem Java, Android e Kotlin.
