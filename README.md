@@ -1,5 +1,5 @@
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/marceloalves95/marceloalves95"></a> hipsters and nerds have come here o/
+<p>
+  <a href="#"><img src="https://badges.pufler.dev/visits/marceloalves95/marceloalves95"></a>
 </p>
 
 <h1 align = "justify"> Olá<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, me chamo Marcelo Alves</h1>
