@@ -12,6 +12,8 @@ Fique a vontade em me conhecer mais nas minhas redes sociais.
 
 </p>
 
-![Linkedin Badge](https://img.shields.io/badge/-marceloalves95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceloalves95/)
+ <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 
