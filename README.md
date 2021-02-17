@@ -32,7 +32,9 @@ Fique a vontade em me conhecer mais nas minhas redes sociais.
 
 **Linguagens e Ferramentas:**  
 
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat-square&logo=kotlin)
-![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql)
+
 
