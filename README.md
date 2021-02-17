@@ -19,5 +19,8 @@ Fique a vontade em me conhecer mais nas minhas redes sociais.
    <a href="https://instagram.com/marceloalves95">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-
+  
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/marceloalves95/marceloalves95"></a> hipsters and nerds have come here o/
+</p>
 
