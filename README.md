@@ -12,7 +12,7 @@ Fique a vontade em me conhecer mais nas minhas redes sociais.
 
 </p>
 
- <a href="https://www.linkedin.com/in/alexandresanlim/">
+ <a href="https://www.linkedin.com/in/marceloalves95/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 
