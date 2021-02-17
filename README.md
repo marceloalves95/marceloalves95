@@ -24,4 +24,8 @@ Fique a vontade em me conhecer mais nas minhas redes sociais.
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
+### Meus Status
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=marceloalves95&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
