@@ -11,5 +11,6 @@ Gosto muito de aprender coisas novas e aplicá-las em meus projetos.
 Fique a vontade em me conhecer mais nas minhas redes sociais.
 
 </p>
+https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 
 
