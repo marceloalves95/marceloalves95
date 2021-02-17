@@ -12,6 +12,6 @@ Fique a vontade em me conhecer mais nas minhas redes sociais.
 
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-marceloalves95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceloalves95/)
+![Linkedin Badge](https://img.shields.io/badge/-marceloalves95-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marceloalves95/)
 
 
