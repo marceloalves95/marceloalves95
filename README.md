@@ -1,9 +1,4 @@
-#### Olá<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-#### Me chamo Marcelo Alves
-
-
-<h1 align = "justify"> Olá<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Me chamo Marcelo Alves</h1>
+<h1 align = "justify"> Olá<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, me chamo Marcelo Alves</h1>
 <p align = "justify">
 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
