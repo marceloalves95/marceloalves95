@@ -2,7 +2,7 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/marceloalves95/marceloalves95"></a>
 </p>
 
-<h1 align = "justify"> Olá<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, me chamo Marcelo Alves</h1>
+<h1 align = "justify"> Olá, me chamo Marcelo Alves</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align = "justify">
 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
