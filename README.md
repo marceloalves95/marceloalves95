@@ -6,11 +6,11 @@
 <p align = "justify">
 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
-O meu primeiro contato com programação foi em 2012, quando fiz o curso de Técnico em Informática pela escola Etec Sapopemba. Desde aquela época venho estudando sobre linguagem Java, Android e Kotlin.
+Meu primeiro contato com programação aconteceu em 2012. Desde aquela época venho estudado sobre Desenvolvimento Android. Meu objetivo é continuar aprendendo e me desenvolvendo na área de programação.
 
-Meu objetivo é me tornar um Desenvolvedor Mobile.
+Atualmente estou estudando a linguagem de programação Kotlin, a fim de me tornar um futuro Desenvolvedor Mobile.
 
-Gosto muito de aprender coisas novas e aplicá-las em meus projetos.
+Gosto muito de aprender coisas novas e aplicá-las em meus projetos. Os desafios fazem parte da vida. O importante é sempre continuar em frente.
 
 Fique a vontade em me conhecer mais nas minhas redes sociais.
 
