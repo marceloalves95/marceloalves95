@@ -5,9 +5,9 @@
 
 - 👨‍🎓 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
-- 🔭 Atualmente estou trabalhando no projeto [Rubio-Financas](https://github.com/marceloalves95/Rubio-Financas)
+- 🔭 Atualmente, estou trabalhando no projeto [Rubio-Financas](https://github.com/marceloalves95/Rubio-Financas)
 
-- 🌱 Atualmente estou aprendendo mais sobre **Kotlin**
+- 🌱 Atualmente, estou aprendendo mais sobre **Kotlin**
 
 - 💻 Todos os meus projetos estão disponíveis aqui [https://github.com/marceloalves95?tab=repositories](https://github.com/marceloalves95?tab=repositories)
 
