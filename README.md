@@ -13,7 +13,7 @@
 
 - 📫 Meu e-mail para contato **marceloalves1295@gmail.com**
 
-- ⚡ Gosto muito de **tocar violão nas horas vagas.**
+- 🎸 Gosto muito de **tocar violão nas horas vagas.**
 
 <h3 align="left">Minhas Redes Sociais:</h3>
 <p align="left">
