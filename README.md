@@ -1,7 +1,9 @@
 <h1 align="center">Olá, me chamo Marcelo Alves👋</h1>
-<h3 align="center">Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID). Meu primeiro contato com programação aconteceu em 2012. Desde aquela época venho estudado sobre Desenvolvimento Android. Gosto muito de aprender coisas novas e aplicá-las em meus projetos. Os desafios fazem parte da vida. O importante é sempre continuar em frente.</h3>
+<h3 align="center"> Meu primeiro contato com programação aconteceu em 2012. Desde aquela época venho estudado sobre Desenvolvimento Android. Gosto muito de aprender coisas novas e aplicá-las em meus projetos. Os desafios fazem parte da vida. O importante é sempre continuar em frente.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloalves95&label=Profile%20views&color=0e75b6&style=flat" alt="marceloalves95" /> </p>
+
+- 👨‍🎓 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
 - 🔭 Atualmente estou trabalhando no projeto [Rubio-Financas](https://github.com/marceloalves95/Rubio-Financas)
 
