@@ -1,5 +1,5 @@
 <h1 align="center">Olá,me chamo Marcelo Alves👋</h1>
-<h3 align="center">Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID). Meu primeiro contato com programação aconteceu em 2012. Desde aquela época venho estudado sobre Desenvolvimento Android. Meu objetivo é continuar aprendendo e me desenvolvendo na área de programação. Atualmente estou estudando a linguagem de programação Kotlin, a fim de me tornar um futuro Desenvolvedor Mobile. Gosto muito de aprender coisas novas e aplicá-las em meus projetos. Os desafios fazem parte da vida. O importante é sempre continuar em frente. Fique a vontade em me conhecer mais nas minhas redes sociais.</h3>
+Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID). Meu primeiro contato com programação aconteceu em 2012. Desde aquela época venho estudado sobre Desenvolvimento Android. Meu objetivo é continuar aprendendo e me desenvolvendo na área de programação. Atualmente estou estudando a linguagem de programação Kotlin, a fim de me tornar um futuro Desenvolvedor Mobile. Gosto muito de aprender coisas novas e aplicá-las em meus projetos. Os desafios fazem parte da vida. O importante é sempre continuar em frente. Fique a vontade em me conhecer mais nas minhas redes sociais.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloalves95&label=Profile%20views&color=0e75b6&style=flat" alt="marceloalves95" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💻 Todos os meus projetos estão disponíveis aqui [https://github.com/marceloalves95?tab=repositories](https://github.com/marceloalves95?tab=repositories)
 
-- 📫 How to reach me **marceloalves1295@gmail.com**
+- 📫 Meu e-mail para contato **marceloalves1295@gmail.com**
 
 - ⚡ Gosto muito de **tocar violão nas horas vagas.**
 
