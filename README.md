@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloalves95&label=Profile%20views&color=0e75b6&style=flat" alt="marceloalves95" /> </p>
 
-- 🧑‍💻 Atualmente, trabalho como estagiário na empresa XDS (Extended Development Solutions).
+- 👨‍💻 Atualmente, trabalho como estagiário na empresa XDS (Extended Development Solutions).
 
 - 👨‍🎓 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
