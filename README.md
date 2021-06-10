@@ -6,7 +6,7 @@ Gosto muito de aprender coisas novas e aplicá-las em meus projetos. Os desafios
 
 - 👨‍🎓 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
-- 🔭 Atualmente, estou trabalhando no projeto [RubioTechNews](https://github.com/marceloalves95/RubioTechNews)
+- 🔭 Atualmente, estou trabalhando no projeto [RubioMovies](https://github.com/marceloalves95/RubioMovies)
 
 - 🌱 Atualmente, estou aprendendo mais sobre **Kotlin**
 
