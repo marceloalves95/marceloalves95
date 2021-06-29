@@ -6,7 +6,7 @@ Gosto muito de aprender coisas novas e aplicá-las em meus projetos. Os desafios
 
 - 👨‍🎓 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
-- 🔭 Atualmente, estou trabalhando no projeto [RubioMovies](https://github.com/marceloalves95/RubioMovies)
+- 🔭 Atualmente, estou trabalhando no projeto [ToDoList-Dio](https://github.com/marceloalves95/ToDoList-Dio)
 
 - 🌱 Atualmente, estou aprendendo mais sobre **Kotlin**
 
