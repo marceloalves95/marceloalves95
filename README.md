@@ -1,6 +1,5 @@
 <h1 align="center">Olá, me chamo Marcelo Alves👋</h1>
-<h3> Atualmente estou estudando a linguagem de programação Kotlin.
-Gosto muito de aprender coisas novas e aplicá-las em meus projetos. Os desafios fazem parte da vida. O importante é sempre continuar em frente.</h3>
+<h3> Minha principal meta é me tornar um Desenvolvedor Mobile. Sou fascinado pela área de mobile e suas aplicabilidades. Gosto muito de aprender sobre novas tecnologias. Além disso, tenho muita facilidade em trabalhar em equipe e ajudar quem precisar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloalves95&label=Profile%20views&color=0e75b6&style=flat" alt="marceloalves95" /> </p>
 
