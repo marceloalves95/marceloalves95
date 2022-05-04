@@ -5,9 +5,9 @@
 
 - 👨‍🎓 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
-- 🔭 Atualmente, estou trabalhando no projeto [ToDoList-Dio](https://github.com/marceloalves95/ToDoList-Dio)
+- 🔭 Atualmente, estou trabalhando no projeto [CoreLibrary](https://github.com/marceloalves95/CoreLibrary)
 
-- 🌱 Atualmente, estou aprendendo mais sobre **Kotlin**
+- 🌱 Atualmente, estou aprendendo mais sobre **criação de bibliotecas Android**
 
 - 💻 Todos os meus projetos estão disponíveis aqui [https://github.com/marceloalves95?tab=repositories](https://github.com/marceloalves95?tab=repositories)
 
