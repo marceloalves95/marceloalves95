@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloalves95&label=Profile%20views&color=0e75b6&style=flat" alt="marceloalves95" /> </p>
 
-- 👨‍🎓 Atualmente estou cursando o curso de Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
+- 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
 - 🔭 Atualmente, estou trabalhando no projeto [CoreLibrary](https://github.com/marceloalves95/CoreLibrary)
 
-- 🌱 Atualmente, estou aprendendo mais sobre **criação de bibliotecas Android**
+- 🌱 Atualmente, estou aprendendo mais sobre **Swift**
 
 - 💻 Todos os meus projetos estão disponíveis aqui [https://github.com/marceloalves95?tab=repositories](https://github.com/marceloalves95?tab=repositories)
 
