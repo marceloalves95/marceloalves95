@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Marcelo Alves👋</h1>
-<h3> Atualmente sou Tech Analyst no Banco Inter. Sou fascinado pela área de mobile e suas aplicabilidades.</h3>
+<h3>Sou fascinado pela área de mobile e suas aplicabilidades.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloalves95&label=Profile%20views&color=0e75b6&style=flat" alt="marceloalves95" /> </p>
 
