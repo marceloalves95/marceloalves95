@@ -5,10 +5,6 @@
 
 - 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
-- 🔭 Atualmente, estou trabalhando no projeto [CoreLibrary](https://github.com/marceloalves95/CoreLibrary)
-
-- 🌱 Atualmente, estou aprendendo mais sobre **Swift**
-
 - 💻 Todos os meus projetos estão disponíveis aqui [https://github.com/marceloalves95?tab=repositories](https://github.com/marceloalves95?tab=repositories)
 
 - 📫 Meu e-mail para contato **marceloalves1295@gmail.com**
