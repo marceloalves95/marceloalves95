@@ -1,9 +1,12 @@
 <h1 align="center">Olá, me chamo Marcelo Alves👋</h1>
-<h3>Sou fascinado pela área de mobile e suas aplicabilidades.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marceloalves95&label=Profile%20views&color=0e75b6&style=flat" alt="marceloalves95" /> </p>
+## 🚀 Sobre mim
+Desenvolvedor Mobile focado em Desenvolvimento Android. Experiência com desenvolvimento Android com ênfase em criação de novas telas baseadas na arquitetura BFF (Back-end for Front-end).
+Considero-me uma pessoa muito focada em resolver problemas e como posso ajudar a agregar o meu conhecimento a equipe. Tenho facilidade em absorver como um projeto funciona e como atuar nele. 
 
 - 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
+
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 
 - 💻 Todos os meus projetos estão disponíveis aqui [https://github.com/marceloalves95?tab=repositories](https://github.com/marceloalves95?tab=repositories)
 
@@ -11,18 +14,21 @@
 
 - 🎸 Gosto muito de **tocar violão nas horas vagas.**
 
-<h3 align="left">Minhas Redes Sociais:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marceloalves95/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marceloalves95/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/marceloalves95/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/marceloalves95/" height="30" width="40" /></a>
-</p>
+## 👨‍💻 Minhas Redes Sociais
+<a href="https://www.linkedin.com/in/marceloalves95/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/marceloalves95/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🛠 Linguagens e Ferramentas:
+<h3 align="left">Linguagens:</h3>
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+</div>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloalves95&show_icons=true&locale=en&layout=compact" alt="marceloalves95"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marceloalves95&show_icons=true&locale=en" alt="marceloalves95"/></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marceloalves95&" alt="marceloalves95" /></p>
+<h3 align="left">Ferramentas:</h3>
+<div>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=firebase&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=firebase&logoColor=white" /> -->
+</div>
