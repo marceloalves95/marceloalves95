@@ -6,7 +6,7 @@ Considero-me uma pessoa muito focada em resolver problemas e como posso ajudar a
 
 - 👨‍🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo (UNICID).
 
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
+<img src="https://github.com/marceloalves95/marceloalves95/blob/main/android.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 - 💻 Todos os meus projetos estão disponíveis aqui [https://github.com/marceloalves95?tab=repositories](https://github.com/marceloalves95?tab=repositories)
 
@@ -30,5 +30,4 @@ Considero-me uma pessoa muito focada em resolver problemas e como posso ajudar a
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=firebase&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=firebase&logoColor=white" /> -->
 </div>
